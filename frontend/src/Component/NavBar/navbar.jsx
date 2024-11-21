@@ -68,11 +68,11 @@ const NavbarPage = () => {
                     FLIGHTS
                   </Nav.Link>
 
-                  <Nav.Link onClick={() => {
+                  {/* <Nav.Link onClick={() => {
                       navigate("/packages")
                     }}>
                     PACKAGES
-                  </Nav.Link>
+                  </Nav.Link> */}
                   <Nav.Link onClick={() => {
                       navigate("/Register")
                     }}>
