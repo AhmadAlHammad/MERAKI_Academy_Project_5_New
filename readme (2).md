@@ -83,7 +83,7 @@ Feel free to refer to the demo link for a live demonstration.
 
 ## ⚠️ Guided By <a name="guided_by"></a>
 
-This project is guided by ©️ **[Team QuickReservePro ](https://www.meraki-academy.org)**.
+This project is guided by ©️ **[Team QuickReservePro ]**.
 
 This project was created by:
 - **Ahmad Alhammad**
